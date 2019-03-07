@@ -4,7 +4,7 @@
 
 
 	Is a one player game. Rules are simple: you need to 
-destroy the bricks and the ball must not fall of the platform.
+destroy the bricks with a ball and that ball must not fall off the platform.
 You have 3 lifes and 2 powerups: thunder that offer speed and 
 mushroom that makes the ball bigger. The powersups are hidden
 in the back of some random bricks. You can "eat" maximum 3 mushrooms,
